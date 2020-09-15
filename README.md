@@ -106,7 +106,7 @@ Timeline
 
 2020-08-08: Issue triaged by Google, priority changed to P1
 
-2020-08-10: Issue confirmed by Google ("Nice catch!")
+2020-08-10: Issue confirmed by Google ("🎉 Nice catch!")
 
 2020-08-14: Update about the VRP process
 
