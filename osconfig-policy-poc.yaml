@@ -1,0 +1,12 @@
+assignment:
+  instanceNamePrefixes:
+  - "test-"
+
+recipes:
+- name: recipe-runscript
+  desiredState: INSTALLED
+  installSteps:
+  - scriptRun:
+      script: |-
+        #!/bin/bash
+        echo "something legit $(date)" >>/tmp/legit.txt
