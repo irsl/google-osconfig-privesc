@@ -103,9 +103,13 @@ I think leveraging a work directory in /tmp is not secure here. (Neither did Goo
 Timeline
 --------
 2020-08-07: Issue discovered and reported
+
 2020-08-08: Issue triaged by Google, priority changed to P1
+
 2020-08-10: Issue confirmed by Google ("Nice catch!")
+
 2020-08-14: Update about the VRP process
+
 2020-09-05: Issue fixed by Google
 
 
@@ -118,6 +122,9 @@ Imre Rad
 Links
 -----
 https://github.com/GoogleCloudPlatform/osconfig
+
 https://issuetracker.google.com/issues/163147689
+
 https://github.com/GoogleCloudPlatform/osconfig/commit/fa7e4ba5ee85be212ffbac66d96862c792bd270c
+
 https://www.linkedin.com/in/imre-rad-2358749b/
