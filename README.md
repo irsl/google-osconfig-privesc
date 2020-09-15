@@ -73,8 +73,6 @@ Google turned to using random temp directory instead of a predictable one.
 
 Remediation
 ------------
-Recommendation to remediate this flaw:
-
 The fixed version was released 2020-09-05. You need to upgrade your OS package.
 
 
