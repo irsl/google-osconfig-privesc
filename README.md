@@ -1,7 +1,7 @@
 Summary
 -------
-The google_osconfig_agent is a component GoogleCloudPlatform (https://github.com/GoogleCloudPlatform/osconfig) tooling, 
-running on each VM by default. The agent is running as root and responsible for some user-controllable services, 
+The google_osconfig_agent process is a component GoogleCloudPlatform (https://github.com/GoogleCloudPlatform/osconfig) 
+tooling, running on each VM by default. The agent is running as root and responsible for some user-controllable services, 
 including OS config (https://cloud.google.com/compute/docs/os-config-management), which is kind of a poll based desired 
 state configuration implementation of Google. 
 
